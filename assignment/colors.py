@@ -29,17 +29,17 @@ def hsl_to_hex(h, s, l):
 def generate_colors(num_colors):
     colors = []
     for i in range(num_colors):
-        hue = (i * 360 / num_colors) % 360  # 使色相均匀分布
-        saturation = 0.9  # 饱和度
-        lightness = 0.5 + (0.5 * (i % 2)) * 0.2  # 随机的明度，可以变化
+        hue = (i * 360 / num_colors) % 360 
+        saturation = 0.9 
+        lightness = 0.5 + (0.5 * (i % 2)) * 0.2
         hex_color = hsl_to_hex(hue, saturation, lightness)
         colors.append(hex_color)
     return colors
 
-# 生成100种颜色
+
 num_colors = 44
 color_list = generate_colors(num_colors)
 
-# 打印结果
+
 for color in color_list:
     print(color)
