@@ -1,0 +1,1806 @@
+{
+    "Australia": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 425624.31
+            },
+            {
+                "year": 1990,
+                "value": 425624.31
+            },
+            {
+                "year": 1995,
+                "value": 439269.88
+            },
+            {
+                "year": 2000,
+                "value": 489528.65
+            },
+            {
+                "year": 2005,
+                "value": 524811.85
+            },
+            {
+                "year": 2010,
+                "value": 536893.74
+            },
+            {
+                "year": 2015,
+                "value": 534936.02
+            },
+            {
+                "year": 2020,
+                "value": 528149.46
+            },
+            {
+                "year": 2021,
+                "value": null
+            }
+        ],
+        "percentage_change": "-100.00%"
+    },
+    "Austria": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 79047.23
+            },
+            {
+                "year": 1990,
+                "value": 79047.23
+            },
+            {
+                "year": 1995,
+                "value": 79953.24
+            },
+            {
+                "year": 2000,
+                "value": 80619.36
+            },
+            {
+                "year": 2005,
+                "value": 92588.58
+            },
+            {
+                "year": 2010,
+                "value": 84693.29
+            },
+            {
+                "year": 2015,
+                "value": 78884.46
+            },
+            {
+                "year": 2020,
+                "value": 73910.84
+            },
+            {
+                "year": 2021,
+                "value": 77532.35
+            }
+        ],
+        "percentage_change": "-1.92%"
+    },
+    "Belarus": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 145339.89
+            },
+            {
+                "year": 1990,
+                "value": 145339.89
+            },
+            {
+                "year": 1995,
+                "value": 87955.99
+            },
+            {
+                "year": 2000,
+                "value": 81145.92
+            },
+            {
+                "year": 2005,
+                "value": 86538.4
+            },
+            {
+                "year": 2010,
+                "value": 91884.27
+            },
+            {
+                "year": 2015,
+                "value": 88307.46
+            },
+            {
+                "year": 2020,
+                "value": 89940.28
+            },
+            {
+                "year": 2021,
+                "value": 91988.2
+            }
+        ],
+        "percentage_change": "-36.71%"
+    },
+    "Belgium": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 145844.47
+            },
+            {
+                "year": 1990,
+                "value": 145844.47
+            },
+            {
+                "year": 1995,
+                "value": 153579.82
+            },
+            {
+                "year": 2000,
+                "value": 148877.33
+            },
+            {
+                "year": 2005,
+                "value": 145418.35
+            },
+            {
+                "year": 2010,
+                "value": 133644.3
+            },
+            {
+                "year": 2015,
+                "value": 118990.38
+            },
+            {
+                "year": 2020,
+                "value": 107272.65
+            },
+            {
+                "year": 2021,
+                "value": 110951.73
+            }
+        ],
+        "percentage_change": "-23.92%"
+    },
+    "Bulgaria": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 113622.28
+            },
+            {
+                "year": 1990,
+                "value": 98910.34
+            },
+            {
+                "year": 1995,
+                "value": 72168.36
+            },
+            {
+                "year": 2000,
+                "value": 57387.46
+            },
+            {
+                "year": 2005,
+                "value": 62364.32
+            },
+            {
+                "year": 2010,
+                "value": 59383.17
+            },
+            {
+                "year": 2015,
+                "value": 60421.4
+            },
+            {
+                "year": 2020,
+                "value": 47984.62
+            },
+            {
+                "year": 2021,
+                "value": 53917.27
+            }
+        ],
+        "percentage_change": "-52.55%"
+    },
+    "Canada": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 588602.82
+            },
+            {
+                "year": 1990,
+                "value": 588602.82
+            },
+            {
+                "year": 1995,
+                "value": 639070.29
+            },
+            {
+                "year": 2000,
+                "value": 719463.71
+            },
+            {
+                "year": 2005,
+                "value": 732220.09
+            },
+            {
+                "year": 2010,
+                "value": 701867.55
+            },
+            {
+                "year": 2015,
+                "value": 722918.27
+            },
+            {
+                "year": 2020,
+                "value": 658788.39
+            },
+            {
+                "year": 2021,
+                "value": 670428.3
+            }
+        ],
+        "percentage_change": "13.90%"
+    },
+    "Croatia": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 31454.18
+            },
+            {
+                "year": 1990,
+                "value": 31454.18
+            },
+            {
+                "year": 1995,
+                "value": 22686.43
+            },
+            {
+                "year": 2000,
+                "value": 25653.65
+            },
+            {
+                "year": 2005,
+                "value": 29876.44
+            },
+            {
+                "year": 2010,
+                "value": 28171.06
+            },
+            {
+                "year": 2015,
+                "value": 24611.05
+            },
+            {
+                "year": 2020,
+                "value": 23906.82
+            },
+            {
+                "year": 2021,
+                "value": 24446.42
+            }
+        ],
+        "percentage_change": "-22.28%"
+    },
+    "Cyprus": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 5571.73
+            },
+            {
+                "year": 1990,
+                "value": 5571.73
+            },
+            {
+                "year": 1995,
+                "value": 6972.18
+            },
+            {
+                "year": 2000,
+                "value": 8306.44
+            },
+            {
+                "year": 2005,
+                "value": 9222.44
+            },
+            {
+                "year": 2010,
+                "value": 9455.87
+            },
+            {
+                "year": 2015,
+                "value": 8343.27
+            },
+            {
+                "year": 2020,
+                "value": 8502.86
+            },
+            {
+                "year": 2021,
+                "value": 8670.02
+            }
+        ],
+        "percentage_change": "55.61%"
+    },
+    "Czechia": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 198775.27
+            },
+            {
+                "year": 1990,
+                "value": 198775.27
+            },
+            {
+                "year": 1995,
+                "value": 158371.95
+            },
+            {
+                "year": 2000,
+                "value": 151139.21
+            },
+            {
+                "year": 2005,
+                "value": 148934.99
+            },
+            {
+                "year": 2010,
+                "value": 140167.57
+            },
+            {
+                "year": 2015,
+                "value": 128506.45
+            },
+            {
+                "year": 2020,
+                "value": 113072.05
+            },
+            {
+                "year": 2021,
+                "value": 118381.69
+            }
+        ],
+        "percentage_change": "-40.44%"
+    },
+    "Denmark": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 71820.94
+            },
+            {
+                "year": 1990,
+                "value": 71820.94
+            },
+            {
+                "year": 1995,
+                "value": 79748.73
+            },
+            {
+                "year": 2000,
+                "value": 72662.45
+            },
+            {
+                "year": 2005,
+                "value": 68748.18
+            },
+            {
+                "year": 2010,
+                "value": 65857.45
+            },
+            {
+                "year": 2015,
+                "value": 50834.62
+            },
+            {
+                "year": 2020,
+                "value": 44483.8
+            },
+            {
+                "year": 2021,
+                "value": 45515.58
+            }
+        ],
+        "percentage_change": "-36.63%"
+    },
+    "Estonia": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 40276.36
+            },
+            {
+                "year": 1990,
+                "value": 40276.36
+            },
+            {
+                "year": 1995,
+                "value": 20063.92
+            },
+            {
+                "year": 2000,
+                "value": 17453.34
+            },
+            {
+                "year": 2005,
+                "value": 19140.62
+            },
+            {
+                "year": 2010,
+                "value": 21111.6
+            },
+            {
+                "year": 2015,
+                "value": 17972.59
+            },
+            {
+                "year": 2020,
+                "value": 11407.08
+            },
+            {
+                "year": 2021,
+                "value": 12615.17
+            }
+        ],
+        "percentage_change": "-68.68%"
+    },
+    "European Union (Convention)": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 4860553.45
+            },
+            {
+                "year": 1990,
+                "value": 4860553.45
+            },
+            {
+                "year": 1995,
+                "value": 4554457.56
+            },
+            {
+                "year": 2000,
+                "value": 4446889.2
+            },
+            {
+                "year": 2005,
+                "value": 4537296.3
+            },
+            {
+                "year": 2010,
+                "value": 4176794.13
+            },
+            {
+                "year": 2015,
+                "value": 3809061.47
+            },
+            {
+                "year": 2020,
+                "value": 3300463.61
+            },
+            {
+                "year": 2021,
+                "value": 3468394.08
+            }
+        ],
+        "percentage_change": "-28.64%"
+    },
+    "Finland": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 71087.75
+            },
+            {
+                "year": 1990,
+                "value": 71087.75
+            },
+            {
+                "year": 1995,
+                "value": 71743.59
+            },
+            {
+                "year": 2000,
+                "value": 70136.61
+            },
+            {
+                "year": 2005,
+                "value": 69704.7
+            },
+            {
+                "year": 2010,
+                "value": 75555.95
+            },
+            {
+                "year": 2015,
+                "value": 55009.24
+            },
+            {
+                "year": 2020,
+                "value": 47756.28
+            },
+            {
+                "year": 2021,
+                "value": 47799.49
+            }
+        ],
+        "percentage_change": "-32.76%"
+    },
+    "France": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 540830.69
+            },
+            {
+                "year": 1990,
+                "value": 540830.69
+            },
+            {
+                "year": 1995,
+                "value": 534172.16
+            },
+            {
+                "year": 2000,
+                "value": 548714.51
+            },
+            {
+                "year": 2005,
+                "value": 553899.48
+            },
+            {
+                "year": 2010,
+                "value": 511152.92
+            },
+            {
+                "year": 2015,
+                "value": 460283.69
+            },
+            {
+                "year": 2020,
+                "value": 398297.03
+            },
+            {
+                "year": 2021,
+                "value": 420060.76
+            }
+        ],
+        "percentage_change": "-22.33%"
+    },
+    "Germany": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 1251224.78
+            },
+            {
+                "year": 1990,
+                "value": 1251224.78
+            },
+            {
+                "year": 1995,
+                "value": 1120660.81
+            },
+            {
+                "year": 2000,
+                "value": 1040191.83
+            },
+            {
+                "year": 2005,
+                "value": 984986.97
+            },
+            {
+                "year": 2010,
+                "value": 932379.13
+            },
+            {
+                "year": 2015,
+                "value": 896657.87
+            },
+            {
+                "year": 2020,
+                "value": 730922.69
+            },
+            {
+                "year": 2021,
+                "value": 760358.01
+            }
+        ],
+        "percentage_change": "-39.23%"
+    },
+    "Greece": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 103985.69
+            },
+            {
+                "year": 1990,
+                "value": 103985.69
+            },
+            {
+                "year": 1995,
+                "value": 109581.12
+            },
+            {
+                "year": 2000,
+                "value": 126659.45
+            },
+            {
+                "year": 2005,
+                "value": 136748.14
+            },
+            {
+                "year": 2010,
+                "value": 119159.95
+            },
+            {
+                "year": 2015,
+                "value": 95965.29
+            },
+            {
+                "year": 2020,
+                "value": 75464.49
+            },
+            {
+                "year": 2021,
+                "value": 77488.83
+            }
+        ],
+        "percentage_change": "-25.48%"
+    },
+    "Hungary": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 110373.29
+            },
+            {
+                "year": 1990,
+                "value": 94985.02
+            },
+            {
+                "year": 1995,
+                "value": 77647.68
+            },
+            {
+                "year": 2000,
+                "value": 75378.31
+            },
+            {
+                "year": 2005,
+                "value": 76954.88
+            },
+            {
+                "year": 2010,
+                "value": 66533.79
+            },
+            {
+                "year": 2015,
+                "value": 62201.09
+            },
+            {
+                "year": 2020,
+                "value": 62965.32
+            },
+            {
+                "year": 2021,
+                "value": 64217.84
+            }
+        ],
+        "percentage_change": "-41.82%"
+    },
+    "Iceland": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 3682.04
+            },
+            {
+                "year": 1990,
+                "value": 3682.04
+            },
+            {
+                "year": 1995,
+                "value": 3554.69
+            },
+            {
+                "year": 2000,
+                "value": 4154.23
+            },
+            {
+                "year": 2005,
+                "value": 4059.34
+            },
+            {
+                "year": 2010,
+                "value": 4906.35
+            },
+            {
+                "year": 2015,
+                "value": 4772.71
+            },
+            {
+                "year": 2020,
+                "value": 4521.06
+            },
+            {
+                "year": 2021,
+                "value": 4662.24
+            }
+        ],
+        "percentage_change": "26.62%"
+    },
+    "Ireland": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 55642.84
+            },
+            {
+                "year": 1990,
+                "value": 55642.84
+            },
+            {
+                "year": 1995,
+                "value": 60080.66
+            },
+            {
+                "year": 2000,
+                "value": 69712.38
+            },
+            {
+                "year": 2005,
+                "value": 71531.48
+            },
+            {
+                "year": 2010,
+                "value": 63032.16
+            },
+            {
+                "year": 2015,
+                "value": 61724.03
+            },
+            {
+                "year": 2020,
+                "value": 59056.3
+            },
+            {
+                "year": 2021,
+                "value": 62109.87
+            }
+        ],
+        "percentage_change": "11.62%"
+    },
+    "Italy": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 521480.34
+            },
+            {
+                "year": 1990,
+                "value": 521480.34
+            },
+            {
+                "year": 1995,
+                "value": 535653.71
+            },
+            {
+                "year": 2000,
+                "value": 559978.14
+            },
+            {
+                "year": 2005,
+                "value": 594197.38
+            },
+            {
+                "year": 2010,
+                "value": 523465.7
+            },
+            {
+                "year": 2015,
+                "value": 445735.65
+            },
+            {
+                "year": 2020,
+                "value": 384969.88
+            },
+            {
+                "year": 2021,
+                "value": 417591.43
+            }
+        ],
+        "percentage_change": "-19.92%"
+    },
+    "Japan": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 1269334.03
+            },
+            {
+                "year": 1990,
+                "value": 1269334.03
+            },
+            {
+                "year": 1995,
+                "value": 1373818.25
+            },
+            {
+                "year": 2000,
+                "value": 1373303.42
+            },
+            {
+                "year": 2005,
+                "value": 1377463.88
+            },
+            {
+                "year": 2010,
+                "value": 1300046.75
+            },
+            {
+                "year": 2015,
+                "value": 1317836.2
+            },
+            {
+                "year": 2020,
+                "value": 1144932.5
+            },
+            {
+                "year": 2021,
+                "value": 1168094.47
+            }
+        ],
+        "percentage_change": "-7.98%"
+    },
+    "Kazakhstan": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 386682.79
+            },
+            {
+                "year": 1990,
+                "value": 386682.79
+            },
+            {
+                "year": 1995,
+                "value": 260567.69
+            },
+            {
+                "year": 2000,
+                "value": 260434.12
+            },
+            {
+                "year": 2005,
+                "value": 287466.39
+            },
+            {
+                "year": 2010,
+                "value": 315855.51
+            },
+            {
+                "year": 2015,
+                "value": 346827.11
+            },
+            {
+                "year": 2020,
+                "value": 333970.96
+            },
+            {
+                "year": 2021,
+                "value": 338123.36
+            }
+        ],
+        "percentage_change": "-12.56%"
+    },
+    "Latvia": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 26022.7
+            },
+            {
+                "year": 1990,
+                "value": 26022.7
+            },
+            {
+                "year": 1995,
+                "value": 12589.83
+            },
+            {
+                "year": 2000,
+                "value": 10167.78
+            },
+            {
+                "year": 2005,
+                "value": 11020.37
+            },
+            {
+                "year": 2010,
+                "value": 11857.88
+            },
+            {
+                "year": 2015,
+                "value": 10744.79
+            },
+            {
+                "year": 2020,
+                "value": 10483.14
+            },
+            {
+                "year": 2021,
+                "value": 10725.29
+            }
+        ],
+        "percentage_change": "-58.78%"
+    },
+    "Liechtenstein": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 229.64
+            },
+            {
+                "year": 1990,
+                "value": 229.64
+            },
+            {
+                "year": 1995,
+                "value": 234.41
+            },
+            {
+                "year": 2000,
+                "value": 247.63
+            },
+            {
+                "year": 2005,
+                "value": 264.52
+            },
+            {
+                "year": 2010,
+                "value": 228.83
+            },
+            {
+                "year": 2015,
+                "value": 198.64
+            },
+            {
+                "year": 2020,
+                "value": 180.87
+            },
+            {
+                "year": 2021,
+                "value": 183.9
+            }
+        ],
+        "percentage_change": "-19.92%"
+    },
+    "Lithuania": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 48134.54
+            },
+            {
+                "year": 1990,
+                "value": 48134.54
+            },
+            {
+                "year": 1995,
+                "value": 22486.04
+            },
+            {
+                "year": 2000,
+                "value": 19493.65
+            },
+            {
+                "year": 2005,
+                "value": 22439.8
+            },
+            {
+                "year": 2010,
+                "value": 20741.77
+            },
+            {
+                "year": 2015,
+                "value": 20155.06
+            },
+            {
+                "year": 2020,
+                "value": 20165.73
+            },
+            {
+                "year": 2021,
+                "value": 20251.51
+            }
+        ],
+        "percentage_change": "-57.93%"
+    },
+    "Luxembourg": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 12722.41
+            },
+            {
+                "year": 1990,
+                "value": 12722.41
+            },
+            {
+                "year": 1995,
+                "value": 10078.52
+            },
+            {
+                "year": 2000,
+                "value": 9635.0
+            },
+            {
+                "year": 2005,
+                "value": 12993.83
+            },
+            {
+                "year": 2010,
+                "value": 12159.05
+            },
+            {
+                "year": 2015,
+                "value": 10313.87
+            },
+            {
+                "year": 2020,
+                "value": 9029.9
+            },
+            {
+                "year": 2021,
+                "value": 9390.73
+            }
+        ],
+        "percentage_change": "-26.19%"
+    },
+    "Malta": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 2626.43
+            },
+            {
+                "year": 1990,
+                "value": 2626.43
+            },
+            {
+                "year": 1995,
+                "value": 2691.06
+            },
+            {
+                "year": 2000,
+                "value": 2749.71
+            },
+            {
+                "year": 2005,
+                "value": 2997.66
+            },
+            {
+                "year": 2010,
+                "value": 2962.33
+            },
+            {
+                "year": 2015,
+                "value": 2129.16
+            },
+            {
+                "year": 2020,
+                "value": 2111.86
+            },
+            {
+                "year": 2021,
+                "value": 2133.62
+            }
+        ],
+        "percentage_change": "-18.76%"
+    },
+    "Monaco": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 102.46
+            },
+            {
+                "year": 1990,
+                "value": 102.46
+            },
+            {
+                "year": 1995,
+                "value": 105.44
+            },
+            {
+                "year": 2000,
+                "value": 106.29
+            },
+            {
+                "year": 2005,
+                "value": 97.74
+            },
+            {
+                "year": 2010,
+                "value": 87.76
+            },
+            {
+                "year": 2015,
+                "value": 88.21
+            },
+            {
+                "year": 2020,
+                "value": 69.76
+            },
+            {
+                "year": 2021,
+                "value": 73.63
+            }
+        ],
+        "percentage_change": "-28.13%"
+    },
+    "Netherlands": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 221781.04
+            },
+            {
+                "year": 1990,
+                "value": 221781.04
+            },
+            {
+                "year": 1995,
+                "value": 231305.57
+            },
+            {
+                "year": 2000,
+                "value": 219454.92
+            },
+            {
+                "year": 2005,
+                "value": 214666.95
+            },
+            {
+                "year": 2010,
+                "value": 214236.64
+            },
+            {
+                "year": 2015,
+                "value": 194015.91
+            },
+            {
+                "year": 2020,
+                "value": 164367.79
+            },
+            {
+                "year": 2021,
+                "value": 167153.25
+            }
+        ],
+        "percentage_change": "-24.63%"
+    },
+    "New Zealand": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 64720.07
+            },
+            {
+                "year": 1990,
+                "value": 64720.07
+            },
+            {
+                "year": 1995,
+                "value": 68394.7
+            },
+            {
+                "year": 2000,
+                "value": 74850.47
+            },
+            {
+                "year": 2005,
+                "value": 81752.18
+            },
+            {
+                "year": 2010,
+                "value": 77328.02
+            },
+            {
+                "year": 2015,
+                "value": 79036.99
+            },
+            {
+                "year": 2020,
+                "value": 77330.66
+            },
+            {
+                "year": 2021,
+                "value": 76824.59
+            }
+        ],
+        "percentage_change": "18.70%"
+    },
+    "Norway": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 50712.45
+            },
+            {
+                "year": 1990,
+                "value": 50712.45
+            },
+            {
+                "year": 1995,
+                "value": 50834.46
+            },
+            {
+                "year": 2000,
+                "value": 54074.16
+            },
+            {
+                "year": 2005,
+                "value": 54471.72
+            },
+            {
+                "year": 2010,
+                "value": 54925.06
+            },
+            {
+                "year": 2015,
+                "value": 54362.82
+            },
+            {
+                "year": 2020,
+                "value": 49214.64
+            },
+            {
+                "year": 2021,
+                "value": 48901.96
+            }
+        ],
+        "percentage_change": "-3.57%"
+    },
+    "Poland": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 577664.96
+            },
+            {
+                "year": 1990,
+                "value": 474554.32
+            },
+            {
+                "year": 1995,
+                "value": 446731.87
+            },
+            {
+                "year": 2000,
+                "value": 393992.73
+            },
+            {
+                "year": 2005,
+                "value": 400708.69
+            },
+            {
+                "year": 2010,
+                "value": 407236.96
+            },
+            {
+                "year": 2015,
+                "value": 383395.33
+            },
+            {
+                "year": 2020,
+                "value": 371312.43
+            },
+            {
+                "year": 2021,
+                "value": 399438.49
+            }
+        ],
+        "percentage_change": "-30.85%"
+    },
+    "Portugal": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 59473.35
+            },
+            {
+                "year": 1990,
+                "value": 59473.35
+            },
+            {
+                "year": 1995,
+                "value": 69306.34
+            },
+            {
+                "year": 2000,
+                "value": 82420.02
+            },
+            {
+                "year": 2005,
+                "value": 86489.22
+            },
+            {
+                "year": 2010,
+                "value": 69529.86
+            },
+            {
+                "year": 2015,
+                "value": 68178.64
+            },
+            {
+                "year": 2020,
+                "value": 58029.35
+            },
+            {
+                "year": 2021,
+                "value": 56359.41
+            }
+        ],
+        "percentage_change": "-5.24%"
+    },
+    "Romania": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 310278.01
+            },
+            {
+                "year": 1990,
+                "value": 257137.18
+            },
+            {
+                "year": 1995,
+                "value": 188741.81
+            },
+            {
+                "year": 2000,
+                "value": 142238.31
+            },
+            {
+                "year": 2005,
+                "value": 151327.1
+            },
+            {
+                "year": 2010,
+                "value": 126669.91
+            },
+            {
+                "year": 2015,
+                "value": 117099.81
+            },
+            {
+                "year": 2020,
+                "value": 112036.04
+            },
+            {
+                "year": 2021,
+                "value": 115403.15
+            }
+        ],
+        "percentage_change": "-62.81%"
+    },
+    "Russian Federation": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 3166579.05
+            },
+            {
+                "year": 1990,
+                "value": 3166579.05
+            },
+            {
+                "year": 1995,
+                "value": 2070711.49
+            },
+            {
+                "year": 2000,
+                "value": 1895001.38
+            },
+            {
+                "year": 2005,
+                "value": 1970602.69
+            },
+            {
+                "year": 2010,
+                "value": 2019393.43
+            },
+            {
+                "year": 2015,
+                "value": 2033334.96
+            },
+            {
+                "year": 2020,
+                "value": 2061109.86
+            },
+            {
+                "year": 2021,
+                "value": 2156599.34
+            }
+        ],
+        "percentage_change": "-31.89%"
+    },
+    "Slovakia": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 73738.67
+            },
+            {
+                "year": 1990,
+                "value": 73738.67
+            },
+            {
+                "year": 1995,
+                "value": 53179.97
+            },
+            {
+                "year": 2000,
+                "value": 48986.21
+            },
+            {
+                "year": 2005,
+                "value": 50666.31
+            },
+            {
+                "year": 2010,
+                "value": 45766.63
+            },
+            {
+                "year": 2015,
+                "value": 40869.58
+            },
+            {
+                "year": 2020,
+                "value": 37187.89
+            },
+            {
+                "year": 2021,
+                "value": 41226.49
+            }
+        ],
+        "percentage_change": "-44.09%"
+    },
+    "Slovenia": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 20632.47
+            },
+            {
+                "year": 1990,
+                "value": 18797.65
+            },
+            {
+                "year": 1995,
+                "value": 18863.25
+            },
+            {
+                "year": 2000,
+                "value": 18769.38
+            },
+            {
+                "year": 2005,
+                "value": 20643.29
+            },
+            {
+                "year": 2010,
+                "value": 19797.93
+            },
+            {
+                "year": 2015,
+                "value": 16912.47
+            },
+            {
+                "year": 2020,
+                "value": 15974.78
+            },
+            {
+                "year": 2021,
+                "value": 16106.48
+            }
+        ],
+        "percentage_change": "-21.94%"
+    },
+    "Spain": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 287710.27
+            },
+            {
+                "year": 1990,
+                "value": 287710.27
+            },
+            {
+                "year": 1995,
+                "value": 327011.05
+            },
+            {
+                "year": 2000,
+                "value": 383276.36
+            },
+            {
+                "year": 2005,
+                "value": 438759.63
+            },
+            {
+                "year": 2010,
+                "value": 354652.28
+            },
+            {
+                "year": 2015,
+                "value": 333623.41
+            },
+            {
+                "year": 2020,
+                "value": 272244.36
+            },
+            {
+                "year": 2021,
+                "value": 288847.82
+            }
+        ],
+        "percentage_change": "0.40%"
+    },
+    "Sweden": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 71478.31
+            },
+            {
+                "year": 1990,
+                "value": 71478.31
+            },
+            {
+                "year": 1995,
+                "value": 73326.17
+            },
+            {
+                "year": 2000,
+                "value": 68349.11
+            },
+            {
+                "year": 2005,
+                "value": 66540.93
+            },
+            {
+                "year": 2010,
+                "value": 64375.65
+            },
+            {
+                "year": 2015,
+                "value": 53557.22
+            },
+            {
+                "year": 2020,
+                "value": 46214.03
+            },
+            {
+                "year": 2021,
+                "value": 47816.7
+            }
+        ],
+        "percentage_change": "-33.10%"
+    },
+    "Switzerland": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 54933.88
+            },
+            {
+                "year": 1990,
+                "value": 54933.88
+            },
+            {
+                "year": 1995,
+                "value": 53818.43
+            },
+            {
+                "year": 2000,
+                "value": 53839.34
+            },
+            {
+                "year": 2005,
+                "value": 56089.86
+            },
+            {
+                "year": 2010,
+                "value": 55306.85
+            },
+            {
+                "year": 2015,
+                "value": 48903.48
+            },
+            {
+                "year": 2020,
+                "value": 43789.74
+            },
+            {
+                "year": 2021,
+                "value": 45135.72
+            }
+        ],
+        "percentage_change": "-17.84%"
+    },
+    "T\u00fcrkiye": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 219526.15
+            },
+            {
+                "year": 1990,
+                "value": 219526.15
+            },
+            {
+                "year": 1995,
+                "value": 248248.91
+            },
+            {
+                "year": 2000,
+                "value": 298916.75
+            },
+            {
+                "year": 2005,
+                "value": 337575.0
+            },
+            {
+                "year": 2010,
+                "value": 398793.16
+            },
+            {
+                "year": 2015,
+                "value": 474967.53
+            },
+            {
+                "year": 2020,
+                "value": 523990.82
+            },
+            {
+                "year": 2021,
+                "value": 564389.75
+            }
+        ],
+        "percentage_change": "157.09%"
+    },
+    "Ukraine": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 942800.47
+            },
+            {
+                "year": 1990,
+                "value": 942800.47
+            },
+            {
+                "year": 1995,
+                "value": 562107.58
+            },
+            {
+                "year": 2000,
+                "value": 427917.24
+            },
+            {
+                "year": 2005,
+                "value": 442402.01
+            },
+            {
+                "year": 2010,
+                "value": 407345.75
+            },
+            {
+                "year": 2015,
+                "value": 319166.58
+            },
+            {
+                "year": 2020,
+                "value": 318034.95
+            },
+            {
+                "year": 2021,
+                "value": 327258.77
+            }
+        ],
+        "percentage_change": "-65.29%"
+    },
+    "United Kingdom of Great Britain and Northern Ireland": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 806301.84
+            },
+            {
+                "year": 1990,
+                "value": 806301.84
+            },
+            {
+                "year": 1995,
+                "value": 757644.22
+            },
+            {
+                "year": 2000,
+                "value": 723919.58
+            },
+            {
+                "year": 2005,
+                "value": 699595.39
+            },
+            {
+                "year": 2010,
+                "value": 615724.59
+            },
+            {
+                "year": 2015,
+                "value": 513880.19
+            },
+            {
+                "year": 2020,
+                "value": 408965.08
+            },
+            {
+                "year": 2021,
+                "value": 429489.47
+            }
+        ],
+        "percentage_change": "-46.73%"
+    },
+    "United States of America": {
+        "year_value_pairs": [
+            {
+                "year": 1985,
+                "value": 6487330.95
+            },
+            {
+                "year": 1990,
+                "value": 6487330.95
+            },
+            {
+                "year": 1995,
+                "value": 6821933.72
+            },
+            {
+                "year": 2000,
+                "value": 7369162.97
+            },
+            {
+                "year": 2005,
+                "value": 7477358.36
+            },
+            {
+                "year": 2010,
+                "value": 7058197.91
+            },
+            {
+                "year": 2015,
+                "value": 6737358.64
+            },
+            {
+                "year": 2020,
+                "value": 6025973.61
+            },
+            {
+                "year": 2021,
+                "value": 6340228.29
+            }
+        ],
+        "percentage_change": "-2.27%"
+    }
+}
